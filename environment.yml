@@ -8,4 +8,5 @@ dependencies:
   - scipy
   - matplotlib
   - ipykernel
+  - pathlib
 prefix: /home/dracdarktime/miniconda3/envs/simulacion
