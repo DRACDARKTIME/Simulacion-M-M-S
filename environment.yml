@@ -1,0 +1,10 @@
+name: simulacion
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - pandas
+  - scipy
+  - matplotlib
+prefix: /home/dracdarktime/miniconda3/envs/simulacion
