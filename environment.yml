@@ -9,4 +9,5 @@ dependencies:
   - matplotlib
   - ipykernel
   - pathlib
+  - seaborn
 prefix: /home/dracdarktime/miniconda3/envs/simulacion
