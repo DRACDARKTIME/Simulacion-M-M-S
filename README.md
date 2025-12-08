@@ -1,5 +1,7 @@
 # Simulacion-M-M-S
 
+La base de datos proviene de https://seelab.net.technion.ac.il/data/
+
 # Diccionario de Datos: Anonymous Bank Call-Center
 
 A continuación se detalla la explicación de los 17 campos que componen cada registro del conjunto de datos.
